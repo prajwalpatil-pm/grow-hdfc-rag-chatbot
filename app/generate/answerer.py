@@ -116,7 +116,8 @@ def _answer_template(query: str, chunks: list[RetrievedChunk]) -> str | None:
     scheme = _short_scheme(chunks[0].metadata.get("scheme", ""))
 
     if field and field["name"] == "fund manager":
-        mgr = next((c for c in chunks if "manager" in c.metadata.get("section", "").lower()), None)
+        # Match both "Fund Managers" and "Fund Management" section titles.
+        mgr = next((c for c in chunks if "manage" in c.metadata.get("section", "").lower()), None)
         if mgr:
             names = [n.strip() for n in re.findall(r"\*\*([^*]+?)\*\*\s*\(", mgr.text)]
             if names:

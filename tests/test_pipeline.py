@@ -62,6 +62,13 @@ def test_terse_alias_exit_load_baf():
     assert "1%" in r.text
 
 
+def test_fund_manager_for_management_section_title():
+    # HDFC Large Cap / ELSS title this section "Fund Management" (not "Fund Managers").
+    r = ask("who is the fund manager of hdfc large cap fund?")
+    assert r.type == "answer"
+    assert "Rahul Baijal" in r.text
+
+
 def test_answers_stay_within_three_sentences():
     for q in [
         "What is the expense ratio of HDFC Small Cap Fund?",
