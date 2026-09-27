@@ -1,0 +1,6 @@
+sentence-transformers
+chromadb
+mistralai>=1.2,<2
+python-dotenv
+pyyaml
+streamlit

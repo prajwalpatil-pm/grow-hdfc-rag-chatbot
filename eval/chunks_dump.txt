@@ -1,0 +1,731 @@
+MF FAQ RAG — Corpus Chunks Dump
+Total chunks: 47  (from 5 scheme docs)
+Chunking: section-aware (one chunk per H2). See architecture.md §5/§10.
+========================================================================
+
+### CHUNK 1/47
+id         : hdfc-large-cap-fund::fund-overview
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Fund Overview
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Fund Overview
+- **Fund Name:** HDFC Large Cap Fund Direct Growth
+- **Category:** Equity — Large Cap
+- **Risk Level:** Very High Risk
+- **NAV (25 Sep '26):** ₹1,189.08 (+0.14% 1D)
+- **AUM (Fund Size):** ₹39,933.37 Cr
+- **Expense Ratio:** 1.03%
+- **Groww Rating:** 4
+- **Launch Date:** 10 Dec 1999
+- **Benchmark:** NIFTY 100 Total Return Index
+
+### CHUNK 2/47
+id         : hdfc-large-cap-fund::minimum-investments
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Minimum Investments
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Minimum Investments
+- **Min. 1st Investment:** ₹100
+- **Min. 2nd Investment:** ₹100
+- **Min. for SIP:** ₹100
+
+### CHUNK 3/47
+id         : hdfc-large-cap-fund::trailing-returns-annualised
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Trailing Returns (Annualised)
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Trailing Returns (Annualised)
+| Period | Fund Returns | Category Avg | Rank |
+|--------|-------------|--------------|------|
+| 3Y | +8.7% | +10.3% | 45 |
+| 5Y | +10.3% | +8.7% | 17 |
+| 10Y | +12.0% | +11.9% | 14 |
+| Since Inception | +12.7% | +12.7% | -- |
+
+Featured 3Y annualised return: +8.71%.
+
+### CHUNK 4/47
+id         : hdfc-large-cap-fund::sip-return-calculator-historic-5-000-month
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : SIP Return Calculator (Historic, ₹5,000/month)
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › SIP Return Calculator (Historic, ₹5,000/month)
+| Period | Invested | Value | Returns |
+|--------|----------|-------|---------|
+| 1 yr | ₹60,000 | ₹58,430 | -2.62% |
+| 3 yr | ₹1,80,000 | ₹1,83,700 | +2.06% |
+| 5 yr | ₹3,00,000 | ₹3,66,318 | +22.11% |
+| 10 yr | ₹6,00,000 | ₹11,12,569 | +85.43% |
+
+### CHUNK 5/47
+id         : hdfc-large-cap-fund::top-10-holdings-of-50
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Top 10 Holdings (of 50)
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Top 10 Holdings (of 50)
+| Stock | Sector | Assets |
+|-------|--------|--------|
+| ICICI Bank Ltd | Financial | 10.05% |
+| HDFC Bank Ltd | Financial | 6.88% |
+| Bharti Airtel Ltd | Technology | 6.23% |
+| Kotak Mahindra Bank Ltd | Financial | 5.71% |
+| Titan Company Ltd | Consumer Discretionary | 5.27% |
+| Reliance Industries Ltd | Energy & Utilities | 4.78% |
+| Torrent Pharmaceuticals Ltd | Healthcare | 4.04% |
+| Axis Bank Ltd | Financial | 3.49% |
+| Bajaj Finserv Ltd | Financial | 3.33% |
+| Bajaj Auto Ltd | Consumer Discretionary | 2.93% |
+
+Sectors represented: Financial, Technology, Healthcare, Consumer Discretionary, Consumer Staples, Energy & Utilities, Materials, Industrials, Real Estate, plus GOI Securities & Repo.
+
+### CHUNK 6/47
+id         : hdfc-large-cap-fund::fund-management
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Fund Management
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Fund Management
+- **Rahul Baijal** (Jul 2022 – Present): PGDM (MBA) from IIM Calcutta; engineering graduate of Delhi College of Engineering. Previously with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse & Standard Chartered Bank.
+- **Dhruv Muchhal** (Jun 2023 – Present): B.Com, CA and CFA. Previously with Motilal Oswal, Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells.
+
+### CHUNK 7/47
+id         : hdfc-large-cap-fund::exit-load
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Exit Load
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Exit Load
+"Exit load of 1% if redeemed within 1 year" (current). Historical variations included a 1% load within 18 months (Feb 2015).
+
+### CHUNK 8/47
+id         : hdfc-large-cap-fund::tax-notes
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Tax Notes
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Tax Notes
+Redemption within one year is taxed at 20%; after one year, gains above ₹1.25 lakh per financial year are taxed at 12.5%. Stamp duty on investment is 0.005% (from July 1st, 2020).
+
+### CHUNK 9/47
+id         : hdfc-large-cap-fund::about-this-fund
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : About This Fund
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › About This Fund
+Launched by HDFC Mutual Fund and made available to investors on 10 Dec 1999, with Rahul Baijal as current manager. **Investment objective:** "to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies."
+
+### CHUNK 10/47
+id         : hdfc-large-cap-fund::fund-house
+scheme     : HDFC Large Cap Fund - Direct Plan - Growth
+section    : Fund House
+category   : Equity - Large Cap
+source_url : https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Large Cap Fund - Direct Plan - Growth › Fund House
+- **HDFC Mutual Fund** — Rank #2 in India by total assets
+- **Total AMC AUM:** ₹9,86,236.84 Cr
+- **Incorporation:** 10 Dec 1999
+- **Custodian:** HDFC Bank
+- **Registrar & Transfer Agent:** CAMS
+
+> Data note: the page's "about" section repeats the AMC-wide AUM (₹9,86,237 Cr) rather than this fund's own size (₹39,933.37 Cr).
+
+### CHUNK 11/47
+id         : hdfc-flexi-cap-fund::fund-overview
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Fund Overview
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Fund Overview
+- **Fund Name:** HDFC Flexi Cap Direct Plan Growth
+- **Category:** Equity — Flexi Cap
+- **Risk Level:** Very High Risk
+- **NAV:** ₹2,214.57 (as of 25 Sep '26)
+- **Fund Size (AUM):** ₹1,13,606.47 Cr
+- **Expense Ratio:** 0.77%
+- **Groww Rating:** 5
+- **Benchmark:** NIFTY 500 Total Return Index
+- **Launch Date:** 10 Dec 1999
+
+### CHUNK 12/47
+id         : hdfc-flexi-cap-fund::investment-minimums
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Investment Minimums
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Investment Minimums
+- **Min. 1st Investment:** ₹100
+- **Min. 2nd Investment:** ₹100
+- **Min. for SIP:** ₹100
+
+### CHUNK 13/47
+id         : hdfc-flexi-cap-fund::exit-load-tax
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Exit Load & Tax
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Exit Load & Tax
+- **Exit Load:** 1% if redeemed within 1 year
+- **Stamp Duty:** 0.005% (from July 1, 2020)
+- **Tax:** Redemption within one year taxed at 20%; after one year, gains above ₹1.25 lakh in a financial year taxed at 12.5%.
+
+### CHUNK 14/47
+id         : hdfc-flexi-cap-fund::trailing-returns-annualised
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Trailing Returns (Annualised)
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Trailing Returns (Annualised)
+| Period | Fund | Category Avg | Rank |
+|--------|------|--------------|------|
+| 3Y | +15.4% | +12.2% | 13 |
+| 5Y | +16.5% | +10.7% | 3 |
+| 10Y | +15.5% | +13.3% | 3 |
+| Since Inception | +15.8% | +14.2% | -- |
+
+3Y annualised: +15.42%; 1D change: +0.28%.
+
+### CHUNK 15/47
+id         : hdfc-flexi-cap-fund::return-calculator-monthly-sip-of-5-000
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Return Calculator (Monthly SIP of ₹5,000)
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Return Calculator (Monthly SIP of ₹5,000)
+| Period | Invested | Value | Returns |
+|--------|----------|-------|---------|
+| 1 year | ₹60,000 | ₹60,008 | +0.01% |
+| 3 years | ₹1,80,000 | ₹2,00,809 | +11.56% |
+| 5 years | ₹3,00,000 | ₹4,26,322 | +42.11% |
+| 10 years | ₹6,00,000 | ₹14,39,178 | +139.86% |
+
+### CHUNK 16/47
+id         : hdfc-flexi-cap-fund::top-holdings-86-total
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Top Holdings (86 total)
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Top Holdings (86 total)
+| Holding | Sector | Assets |
+|---------|--------|--------|
+| ICICI Bank Ltd | Financial | 9.19% |
+| Axis Bank Ltd | Financial | 6.19% |
+| HDFC Bank Ltd | Financial | 5.71% |
+| State Bank of India | Financial | 4.16% |
+| Zomato Ltd | Technology | 3.39% |
+| Kotak Mahindra Bank Ltd | Financial | 3.27% |
+| SBI Life Insurance Company Ltd | Financial | 3.19% |
+| Larsen & Toubro Ltd | Industrials | 3.16% |
+| Interglobe Aviation Ltd | Industrials | 2.98% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | 2.74% |
+
+### CHUNK 17/47
+id         : hdfc-flexi-cap-fund::fund-managers
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Fund Managers
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Fund Managers
+- **Dhruv Muchhal** (Jun 2023 – Present): B.Com, CA and CFA. Previously with Motilal Oswal Financial Services, Goldman Sachs, CRISIL Global Research & Analytics, and Deloitte Haskins & Sells.
+- **Amit Ganatra** (Feb 2026 – Present): Commerce degree, Chartered Accountant, CFA. Previously with Invesco Asset Management (India), HDFC Mutual Fund, DBS Cholamandalam AMC, and Fidelity.
+
+### CHUNK 18/47
+id         : hdfc-flexi-cap-fund::about-this-fund
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : About This Fund
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › About This Fund
+Launched by HDFC Mutual Fund and made available to investors on 10 Dec 1999. **Investment Objective:** "The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments." No lock-in period (flexi cap fund, not ELSS).
+
+### CHUNK 19/47
+id         : hdfc-flexi-cap-fund::fund-house
+scheme     : HDFC Flexi Cap Fund - Direct Plan - Growth
+section    : Fund House
+category   : Equity - Flexi Cap
+source_url : https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Flexi Cap Fund - Direct Plan - Growth › Fund House
+- **AMC:** HDFC Mutual Fund (Rank #2 in India by total assets)
+- **Total AUM:** ₹9,86,236.84 Cr
+- **Date of Incorporation:** 10 Dec 1999
+- **Custodian:** Deutsche Bank
+- **Registrar & Transfer Agent:** CAMS
+
+> Data note: the page's "about" section repeats the AMC-wide AUM (₹9,86,237 Cr) rather than this fund's own size (₹1,13,606.47 Cr).
+
+### CHUNK 20/47
+id         : hdfc-elss-tax-saver-fund::fund-overview
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : Fund Overview
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › Fund Overview
+- **Fund Name:** HDFC ELSS Tax Saver Fund Direct Plan Growth
+- **Category:** Equity — ELSS (tax saver), 3Y Lock-in
+- **Risk Level:** Very High Risk
+- **NAV:** ₹1,447.38 (as of 25 Sep '26)
+- **AUM (Fund size):** ₹15,991.78 Cr
+- **Expense Ratio:** 1.21%
+- **Groww Rating:** 5
+- **Benchmark:** NIFTY 500 Total Return Index
+- **Launch Date:** 10 Dec 1999
+- **Lock-in Period:** 3 Years
+
+### CHUNK 21/47
+id         : hdfc-elss-tax-saver-fund::minimum-investments
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : Minimum Investments
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › Minimum Investments
+- Min. 1st investment: ₹500
+- Min. 2nd investment: ₹500
+- Min. for SIP: ₹500
+
+### CHUNK 22/47
+id         : hdfc-elss-tax-saver-fund::exit-load-tax
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : Exit Load & Tax
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › Exit Load & Tax
+- **Exit Load:** Nil
+- **Stamp Duty:** 0.005% (from July 1st, 2020)
+- **Tax:** "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%." (ELSS investments qualify for deduction under Section 80C of the Income Tax Act, subject to the 3-year lock-in.)
+
+### CHUNK 23/47
+id         : hdfc-elss-tax-saver-fund::trailing-returns-annualised
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : Trailing Returns (Annualised)
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › Trailing Returns (Annualised)
+| Period | Fund | Category Avg | Rank |
+|--------|------|--------------|------|
+| 3Y | +12.5% | +11.4% | 13 |
+| 5Y | +13.4% | +10.4% | 5 |
+| 10Y | +12.8% | +13.2% | 17 |
+| Since Inception | +13.8% | +17.1% | -- |
+
+Header shows +12.47% 3Y annualised and +0.38% 1D.
+
+### CHUNK 24/47
+id         : hdfc-elss-tax-saver-fund::sip-return-calculator-5-000-month
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : SIP Return Calculator (₹5,000/month)
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › SIP Return Calculator (₹5,000/month)
+| Period | Invested | Value | Return |
+|--------|----------|-------|--------|
+| 1 yr | ₹60,000 | ₹57,940 | -3.43% |
+| 3 yr | ₹1,80,000 | ₹1,87,909 | +4.39% |
+| 5 yr | ₹3,00,000 | ₹3,94,141 | +31.38% |
+| 10 yr | ₹6,00,000 | ₹12,27,728 | +104.62% |
+
+### CHUNK 25/47
+id         : hdfc-elss-tax-saver-fund::top-10-holdings-of-65
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : Top 10 Holdings (of 65)
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › Top 10 Holdings (of 65)
+| # | Name | Sector | Assets |
+|---|------|--------|--------|
+| 1 | ICICI Bank Ltd | Financial | 9.32% |
+| 2 | HDFC Bank Ltd | Financial | 7.36% |
+| 3 | Axis Bank Ltd | Financial | 6.50% |
+| 4 | Maruti Suzuki India Ltd | Consumer Discretionary | 4.66% |
+| 5 | State Bank of India | Financial | 4.64% |
+| 6 | Kotak Mahindra Bank Ltd | Financial | 4.59% |
+| 7 | Bharti Airtel Ltd | Technology | 4.29% |
+| 8 | SBI Life Insurance Company Ltd | Financial | 3.25% |
+| 9 | HCL Technologies Ltd | Technology | 2.93% |
+| 10 | Hyundai Motor India Ltd | Consumer Discretionary | 2.76% |
+
+### CHUNK 26/47
+id         : hdfc-elss-tax-saver-fund::fund-management
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : Fund Management
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › Fund Management
+- **Amar Kalkundrikar** (Dec 2025 – Present): B.Com, CA, CFA, and MBA from Columbia Business School. Previously at Nippon India Mutual Fund and HDFC AMC.
+- **Dhruv Muchhal** (Jun 2023 – Present): B.Com, CA, CFA. Previously at Motilal Oswal, Goldman Sachs, CRISIL, and Deloitte.
+
+### CHUNK 27/47
+id         : hdfc-elss-tax-saver-fund::about-this-fund
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : About This Fund
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › About This Fund
+An Equity Mutual Fund Scheme by HDFC Mutual Fund, made available to investors on 10 Dec 1999. Current fund manager is Amar Kalkundrikar. **Investment Objective:** "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments."
+
+### CHUNK 28/47
+id         : hdfc-elss-tax-saver-fund::fund-house
+scheme     : HDFC ELSS Tax Saver Fund - Direct Plan - Growth
+section    : Fund House
+category   : Equity - ELSS (Tax Saver), 3-year lock-in
+source_url : https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund - Direct Plan - Growth › Fund House
+- **HDFC Mutual Fund** — Rank #2 in India (total assets)
+- **Total AMC AUM:** ₹9,86,236.84 Cr
+- **Custodian:** Deutsche Bank
+- **Registrar & Transfer Agent:** CAMS
+- **Website:** http://www.hdfcfund.com
+
+> Data note: the page's "about" section repeats the AMC-wide AUM (₹9,86,237 Cr) rather than this fund's own size (₹15,991.78 Cr).
+
+### CHUNK 29/47
+id         : hdfc-small-cap-fund::fund-overview
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Fund Overview
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Fund Overview
+- **Fund Name:** HDFC Small Cap Fund Direct Growth
+- **Category:** Equity — Small Cap
+- **Risk Level (riskometer):** Very High Risk
+- **NAV:** ₹159.82 (as of 25 Sep '26)
+- **AUM (Fund size):** ₹41,890.86 Cr
+- **Expense Ratio:** 0.78%
+- **Groww Rating:** 3
+- **Benchmark:** BSE 250 SmallCap Total Return Index
+- **Launch Date:** 10 Dec 1999
+
+### CHUNK 30/47
+id         : hdfc-small-cap-fund::minimum-investments
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Minimum Investments
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Minimum Investments
+- **Min. 1st investment:** ₹100
+- **Min. 2nd investment:** ₹100
+- **Min. for SIP:** ₹100
+
+### CHUNK 31/47
+id         : hdfc-small-cap-fund::trailing-returns-annualised
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Trailing Returns (Annualised)
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Trailing Returns (Annualised)
+| Period | Fund Returns | Category Average | Rank |
+|--------|-------------|------------------|------|
+| 3Y | +11.1% | +16.8% | 34 |
+| 5Y | +14.6% | +16.4% | 18 |
+| 10Y | +17.4% | +17.8% | 5 |
+| Since Inception | +18.3% | +20.4% | -- |
+
+Header also shows +11.08% 3Y annualised and -0.06% 1D.
+
+### CHUNK 32/47
+id         : hdfc-small-cap-fund::sip-return-calculator-historic-5-000-month
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : SIP Return Calculator (Historic, ₹5,000/month)
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › SIP Return Calculator (Historic, ₹5,000/month)
+| Period | Invested | Value | Returns |
+|--------|----------|-------|---------|
+| 1 year | ₹60,000 | ₹61,449 | +2.42% |
+| 3 years | ₹1,80,000 | ₹1,95,187 | +8.44% |
+| 5 years | ₹3,00,000 | ₹4,14,941 | +38.31% |
+| 10 years | ₹6,00,000 | ₹15,29,105 | +154.85% |
+
+### CHUNK 33/47
+id         : hdfc-small-cap-fund::top-10-holdings-of-87
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Top 10 Holdings (of 87)
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Top 10 Holdings (of 87)
+| Name | Sector | Assets |
+|------|--------|--------|
+| Repo | Cash / Money Market | 10.25% |
+| Firstsource Solutions Ltd | Industrials | 3.71% |
+| Aster DM Healthcare Ltd | Healthcare | 3.56% |
+| Gabriel India Ltd | Consumer Discretionary | 3.25% |
+| eClerx Services Ltd | Technology | 3.09% |
+| Bank Of Baroda | Financial | 2.67% |
+| Indian Bank | Financial | 2.08% |
+| Krishna Institute Of Medical Sciences Ltd | Healthcare | 2.01% |
+| Eris Lifesciences Ltd | Healthcare | 2.00% |
+| Apar Industries Ltd | Diversified | 1.90% |
+
+Sectors represented: Industrials, Healthcare, Consumer Discretionary, Technology, Financial, Materials, Consumer Staples, Energy & Utilities, Diversified. (No consolidated sector-allocation percentages provided on the page.)
+
+### CHUNK 34/47
+id         : hdfc-small-cap-fund::exit-load
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Exit Load
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Exit Load
+Current: "Exit load of 1% if redeemed within 1 year." (Historical changes noted on page: 08 May 2015, 18 Dec 2014, 01 Jul 2014, 01 Jan 2013.)
+
+### CHUNK 35/47
+id         : hdfc-small-cap-fund::tax-notes
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Tax Notes
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Tax Notes
+- **Stamp duty on investment:** 0.005% (from July 1st, 2020)
+- Redeem within one year: returns taxed at 20%.
+- Redeem after one year: returns above ₹1.25 lakh per financial year taxed at 12.5%.
+
+### CHUNK 36/47
+id         : hdfc-small-cap-fund::fund-managers
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Fund Managers
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Fund Managers
+- **Dhruv Muchhal** (Jun 2023 – Present): B.Com, CA and CFA. Prior firms include Motilal Oswal, Goldman Sachs, CRISIL, Deloitte Haskins & Sells.
+- **Chirag Setalvad** (Jun 2014 – Present): B.Sc and MBA from University of North Carolina. Prior firms include New Vernon Advisory Services, HDFC AMC, ING Barings N.V.
+
+### CHUNK 37/47
+id         : hdfc-small-cap-fund::about-this-fund
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : About This Fund
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › About This Fund
+Launched by HDFC Mutual Fund and made available to investors on 10 Dec 1999. **Investment Objective:** seeks "long-term capital appreciation / income by investing predominantly in Small-Cap companies." No lock-in period (not an ELSS fund).
+
+### CHUNK 38/47
+id         : hdfc-small-cap-fund::fund-house
+scheme     : HDFC Small Cap Fund - Direct Plan - Growth
+section    : Fund House
+category   : Equity - Small Cap
+source_url : https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Small Cap Fund - Direct Plan - Growth › Fund House
+- **HDFC Mutual Fund** — Rank #2 in India by total assets
+- **Total AUM:** ₹9,86,236.84 Cr
+- **Date of Incorporation:** 10 Dec 1999
+- **Custodian:** Citibank NA
+- **Registrar & Transfer Agent:** CAMS
+
+> Data note: the page's "about" section repeats the AMC-wide AUM (₹9,86,237 Cr) rather than this fund's own size (₹41,890.86 Cr).
+
+### CHUNK 39/47
+id         : hdfc-balanced-advantage-fund::fund-overview
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Fund Overview
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Fund Overview
+- **Fund Name:** HDFC Balanced Advantage Fund Direct Growth
+- **Category:** Hybrid — Dynamic Asset Allocation
+- **Risk Level:** Very High Risk
+- **NAV (as of 25 Sep '26):** ₹557.73
+- **Fund Size (AUM):** ₹1,07,295.79 Cr
+- **Expense Ratio:** 0.78%
+- **Groww Rating:** 5
+- **Benchmark:** NIFTY 50 Hybrid Composite Debt 50:50 Index
+- **Launch Date:** 10 Dec 1999
+
+### CHUNK 40/47
+id         : hdfc-balanced-advantage-fund::investment-minimums
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Investment Minimums
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Investment Minimums
+- **Min. 1st Investment:** ₹100
+- **Min. 2nd Investment:** ₹100
+- **Min. SIP:** ₹100
+
+### CHUNK 41/47
+id         : hdfc-balanced-advantage-fund::fund-managers
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Fund Managers
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Fund Managers
+- Anil Bamboli (Jul 2022 – Present)
+- Arun Agarwal (Oct 2022 – Present)
+- Dhruv Muchhal (Jun 2023 – Present)
+- Nandita Menezes (Mar 2025 – Present)
+- Gopal Agrawal (Jul 2022 – Present)
+- Ihab Dalwai (Sep 2026 – Present)
+
+### CHUNK 42/47
+id         : hdfc-balanced-advantage-fund::trailing-returns-annualised
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Trailing Returns (Annualised)
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Trailing Returns (Annualised)
+| Period | Fund | Category Avg | Rank |
+|--------|------|--------------|------|
+| 3Y | +11.0% | +9.4% | 7 |
+| 5Y | +14.1% | +8.9% | 1 |
+| 10Y | +13.4% | +10.1% | -- |
+| Since Inception | +14.3% | +10.9% | -- |
+
+3Y annualised (header): +11.02%; 1D change: +0.21%.
+
+### CHUNK 43/47
+id         : hdfc-balanced-advantage-fund::top-10-holdings-of-326
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Top 10 Holdings (of 326)
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Top 10 Holdings (of 326)
+| Name | Sector | Assets |
+|------|--------|--------|
+| ICICI Bank Ltd | Financial | 5.32% |
+| HDFC Bank Ltd | Financial | 4.13% |
+| Reliance Industries Ltd | Energy & Utilities | 3.74% |
+| State Bank of India | Financial | 3.46% |
+| Bharti Airtel Ltd | Technology | 2.93% |
+| Axis Bank Ltd | Financial | 2.68% |
+| Larsen & Toubro Ltd | Industrials | 2.59% |
+| GOI Sec 7.18 14/08/2033 | GOI Securities | 1.99% |
+| NTPC Ltd | Energy & Utilities | 1.94% |
+| Zomato Ltd | Technology | 1.65% |
+
+### CHUNK 44/47
+id         : hdfc-balanced-advantage-fund::exit-load
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Exit Load
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Exit Load
+Latest (01 Jun 2018): "Exit Load for units in excess of 15% of the investment, 1% will be charged for redemption within 1 year."
+
+### CHUNK 45/47
+id         : hdfc-balanced-advantage-fund::tax-notes
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Tax Notes
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Tax Notes
+"If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%." Stamp duty on investment: 0.005% (from July 1st, 2020).
+
+### CHUNK 46/47
+id         : hdfc-balanced-advantage-fund::about-this-fund
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : About This Fund
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › About This Fund
+HDFC Balanced Advantage Fund Direct Growth is a Hybrid scheme launched by HDFC Mutual Fund, made available to investors on 10 Dec 1999. **Investment Objective:** "The Scheme seeks to provide long term capital appreciation / income from a dynamic mix of equity and debt investments." No explicit lock-in period.
+
+### CHUNK 47/47
+id         : hdfc-balanced-advantage-fund::fund-house
+scheme     : HDFC Balanced Advantage Fund - Direct Plan - Growth
+section    : Fund House
+category   : Hybrid - Dynamic Asset Allocation
+source_url : https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+nav_as_of  : 2026-09-25
+------------------------------------------------------------------------
+HDFC Balanced Advantage Fund - Direct Plan - Growth › Fund House
+- **AMC:** HDFC Mutual Fund (Rank #2 in India by total assets)
+- **Total AUM:** ₹9,86,236.84 Cr
+- **Date of Incorporation:** 10 Dec 1999
+- **Custodian:** HDFC Bank
+- **Registrar & Transfer Agent:** CAMS
+
+> Data note: the page's "about" section repeats the AMC-wide AUM (₹9,86,237 Cr) rather than this fund's own size (₹1,07,295.79 Cr).

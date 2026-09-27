@@ -1,0 +1,45 @@
+{
+  "amc": "HDFC Mutual Fund",
+  "source_platform": "Groww (https://groww.in)",
+  "collected_on": "2026-09-27",
+  "nav_as_of": "2026-09-25",
+  "plan_type": "Direct - Growth",
+  "note": "Public scheme pages collected as the knowledge base for a facts-only RAG chatbot (per the Build Hour 27-Sep brief). Figures are point-in-time as displayed by Groww on the collection date; NAV/AUM/returns change daily. Groww uses non-obvious URL slugs (Flexi Cap = hdfc-equity-fund; ELSS also reachable at hdfc-taxsaver). HDFC's own site (hdfcfund.com) blocks automated fetches (HTTP 403), so Groww is used as the public source. The 5 schemes below exactly match the brief's list.",
+  "documents": [
+    {
+      "id": "hdfc-large-cap-fund",
+      "file": "01-hdfc-large-cap-fund.md",
+      "scheme": "HDFC Large Cap Fund - Direct Plan - Growth",
+      "category": "Equity - Large Cap",
+      "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
+    },
+    {
+      "id": "hdfc-flexi-cap-fund",
+      "file": "02-hdfc-flexi-cap-fund.md",
+      "scheme": "HDFC Flexi Cap Fund - Direct Plan - Growth",
+      "category": "Equity - Flexi Cap",
+      "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth"
+    },
+    {
+      "id": "hdfc-elss-tax-saver-fund",
+      "file": "03-hdfc-elss-tax-saver-fund.md",
+      "scheme": "HDFC ELSS Tax Saver Fund - Direct Plan - Growth",
+      "category": "Equity - ELSS (Tax Saver, 3Y lock-in)",
+      "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth"
+    },
+    {
+      "id": "hdfc-small-cap-fund",
+      "file": "04-hdfc-small-cap-fund.md",
+      "scheme": "HDFC Small Cap Fund - Direct Plan - Growth",
+      "category": "Equity - Small Cap",
+      "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+    },
+    {
+      "id": "hdfc-balanced-advantage-fund",
+      "file": "05-hdfc-balanced-advantage-fund.md",
+      "scheme": "HDFC Balanced Advantage Fund - Direct Plan - Growth",
+      "category": "Hybrid - Dynamic Asset Allocation",
+      "url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth"
+    }
+  ]
+}
