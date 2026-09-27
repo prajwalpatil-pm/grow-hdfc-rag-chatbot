@@ -1,5 +1,5 @@
-sentence-transformers
 chromadb
+onnxruntime
 mistralai>=1.2,<2
 python-dotenv
 pyyaml

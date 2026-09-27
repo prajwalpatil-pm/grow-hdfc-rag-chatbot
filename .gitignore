@@ -5,4 +5,6 @@ data/chroma/
 .env
 .DS_Store
 *.log
+.pytest_cache/
+.ruff_cache/
 

@@ -1,0 +1,25 @@
+# Render deployment blueprint — free tier (512 MB RAM).
+# The app runs all-MiniLM-L6-v2 via ONNX (no PyTorch) and calls Mistral remotely,
+# so it fits in 512 MB. Set MISTRAL_API_KEY as a secret in the Render dashboard.
+services:
+  - type: web
+    name: grow-hdfc-rag-chatbot
+    runtime: python
+    plan: free
+    # Install deps (no torch) and prebuild the ChromaDB index at build time.
+    buildCommand: pip install -r requirements.txt && python -m app.ingest.build_index
+    # Bind to Render's $PORT; disable the file watcher + usage stats to save memory.
+    startCommand: streamlit run ui/streamlit_app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true --server.fileWatcherType none --browser.gatherUsageStats false
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: GEN_MODE
+        value: llm                 # or "template" to run with no API key
+      - key: MISTRAL_MODEL
+        value: mistral-small-latest
+      - key: MISTRAL_API_KEY
+        sync: false                # set this as a secret in the Render dashboard
+      - key: OMP_NUM_THREADS       # keep onnxruntime single-threaded → lower memory
+        value: "1"
+      - key: TOKENIZERS_PARALLELISM
+        value: "false"

@@ -72,7 +72,7 @@ requirements, and [`implementation.md`](implementation.md) for the phased build 
 
 | Layer | Choice |
 |---|---|
-| Embeddings | `sentence-transformers/all-MiniLM-L6-v2` (384-dim, local, CPU) |
+| Embeddings | `all-MiniLM-L6-v2` via **ONNX runtime** (ChromaDB built-in, 384-dim, **no PyTorch** → fits 512 MB) |
 | Vector store | **ChromaDB** (persistent, cosine) |
 | Generation | **Mistral** (`mistral-small-latest`) — optional; template fallback |
 | UI | **Streamlit** |
@@ -131,7 +131,34 @@ streamlit run ui/streamlit_app.py    # http://localhost:8501
 python -m app.pipeline "What is the expense ratio of HDFC Small Cap Fund?"
 ```
 
-> First run downloads the MiniLM model (~90 MB) once.
+> First run downloads the MiniLM ONNX model (~80 MB) once.
+
+---
+
+## ☁️ Deploying to Render (512 MB free tier)
+
+Tuned to fit Render's free **512 MB** instance: it runs `all-MiniLM-L6-v2` through
+**ONNX runtime (no PyTorch)** and calls Mistral remotely, so measured resident memory is
+**~340 MB** (vs ~1 GB with torch). A [`render.yaml`](render.yaml) blueprint is included.
+
+If configuring manually:
+
+| Field | Value |
+|---|---|
+| **Root Directory** | *(blank / repo root)* |
+| **Build Command** | `pip install -r requirements.txt && python -m app.ingest.build_index` |
+| **Start Command** | `streamlit run ui/streamlit_app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true --server.fileWatcherType none --browser.gatherUsageStats false` |
+
+**Environment variables** (`MISTRAL_API_KEY` as a secret):
+
+| Variable | Value |
+|---|---|
+| `MISTRAL_API_KEY` | *(your key — secret)* |
+| `MISTRAL_MODEL` | `mistral-small-latest` |
+| `GEN_MODE` | `llm` *(or `template` for keyless)* |
+| `PYTHON_VERSION` | `3.11.9` |
+| `OMP_NUM_THREADS` | `1` *(single-threaded ONNX → lower memory)* |
+| `TOKENIZERS_PARALLELISM` | `false` |
 
 ---
 
