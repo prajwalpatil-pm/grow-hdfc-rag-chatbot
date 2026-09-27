@@ -1,6 +1,7 @@
 """End-to-end pipeline tests (require the ChromaDB index; built by conftest)."""
 import re
 
+import config
 from app.pipeline import ask
 
 
@@ -67,6 +68,18 @@ def test_fund_manager_for_management_section_title():
     r = ask("who is the fund manager of hdfc large cap fund?")
     assert r.type == "answer"
     assert "Rahul Baijal" in r.text
+
+
+def test_followup_inherits_context_scheme():
+    # A follow-up with no named scheme ("its …") should use the carried-over scheme.
+    r = ask("what is its expense ratio", context_scheme=config.SCHEME_LARGE_CAP)
+    assert r.type == "answer"
+    assert "1.03%" in r.text
+
+
+def test_no_scheme_and_no_context_clarifies():
+    # No scheme named and no context → still asks which scheme (unchanged behaviour).
+    assert ask("what is its expense ratio").type == "out_of_scope"
 
 
 def test_answers_stay_within_three_sentences():

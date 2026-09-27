@@ -51,7 +51,9 @@ def _fmt_date(iso: str) -> str:
         return iso
 
 
-def ask(query: str) -> AskResponse:
+def ask(query: str, context_scheme: str | None = None) -> AskResponse:
+    # context_scheme = the last-discussed scheme, so follow-ups like "what's its
+    # lock-in?" or "fund value for that" inherit context (multi-turn conversation).
     # --- Guard-first ordering (architecture.md §6/§8). Deterministic guards run
     # before any embedding/retrieval, so unsafe/out-of-scope inputs short-circuit. ---
 
@@ -73,7 +75,8 @@ def ask(query: str) -> AskResponse:
     # 3. Factual path. This corpus has 5 near-duplicate scheme pages, so we require
     # the query to name one of them (else clarify). Stricter than architecture.md §9's
     # "search all", which caused cross-scheme mismatches on lookalike text.
-    scheme_filter = resolve_scheme(query)
+    # If the query names a scheme, use it; otherwise fall back to the conversation's scheme.
+    scheme_filter = resolve_scheme(query) or context_scheme
     if scheme_filter is None:
         return AskResponse(
             type="out_of_scope",

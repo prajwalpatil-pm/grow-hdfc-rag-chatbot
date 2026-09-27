@@ -44,7 +44,7 @@ _FIELDS = [
     {"name": "nav", "kw": ["nav", "net asset value"],
      "label": r"nav", "exclude": None,
      "phrase": "The NAV of {scheme} is {value}."},
-    {"name": "aum", "kw": ["aum", "fund size", "assets under management"],
+    {"name": "aum", "kw": ["aum", "fund size", "fund value", "assets under management"],
      "label": r"aum|fund size", "exclude": r"total",
      "phrase": "The AUM (fund size) of {scheme} is {value}."},
     {"name": "category", "kw": ["category", "type of fund", "what type"],

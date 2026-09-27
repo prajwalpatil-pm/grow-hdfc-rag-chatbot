@@ -91,6 +91,8 @@ for i, ex in enumerate(EXAMPLES):
 # --- Chat history ---
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if "current_scheme" not in st.session_state:
+    st.session_state.current_scheme = None  # last-discussed scheme, for follow-up context
 
 for m in st.session_state.messages:
     with st.chat_message(m["role"]):
@@ -109,8 +111,10 @@ if user_q:
         st.markdown(user_q)
     with st.chat_message("assistant"):
         with st.spinner("Looking it up…"):
-            r = ask(user_q)
+            r = ask(user_q, context_scheme=st.session_state.current_scheme)
         render_response(r)
+    # Remember the resolved scheme so follow-ups ("its lock-in?", "for that") keep context.
+    st.session_state.current_scheme = r.debug.get("scheme_filter") or st.session_state.current_scheme
     st.session_state.messages.append({"role": "assistant", "resp": r})
 
 # --- Persistent disclaimer ---
